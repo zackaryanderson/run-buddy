@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://zackaryanderson.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Zack Anderson
+
+### ©️2019 Run Buddy, Inc
